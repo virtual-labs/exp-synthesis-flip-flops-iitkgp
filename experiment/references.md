@@ -1,7 +1,5 @@
 ## References
 
-### Synthesis of Flip Flops:
-
 #### Books:
 
 1. Digital Logic and Computer Design - M. Morris Mano. Pearson Education - Prentice Hall.
