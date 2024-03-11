@@ -2,37 +2,27 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "If a not gate is placed between the two inputs of an SR flip-flop, the resulting circuit behaves as",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "D flip-flop",
+        "b": "JK flip-flop",
+        "c": "SR flip-flop",
+        "d": "T flip-flop"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which statement BEST describes the operation of a negative-edge-triggered D flip-flop?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The Q output is ALWAYS identical to the CLK input if the D input is HIGH",
+        "b": "The logic level at the D input is transferred to Q on NGT of CLK",
+        "c": "The Q output is ALWAYS identical to the D input when CLK = PGT",
+        "d": "The Q output is ALWAYS identical to the D input"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
