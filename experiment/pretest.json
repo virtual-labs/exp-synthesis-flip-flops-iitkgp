@@ -9,7 +9,6 @@
         "c": "Astableristate multivibrator",
         "d": "None of these"
       },
-     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -21,8 +20,49 @@
         "c": "J = 1, K = 0",
         "d": "J = 0, K = 1"
       },
-      
       "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If a not gate is placed between the two inputs of an SR flip-flop, the resulting circuit behaves as",
+      "answers": {
+        "a": "D flip-flop",
+        "b": "JK flip-flop",
+        "c": "SR flip-flop",
+        "d": "T flip-flop"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which statement BEST describes the operation of a negative-edge-triggered D flip-flop?",
+      "answers": {
+        "a": "The Q output is ALWAYS identical to the CLK input if the D input is HIGH",
+        "b": "The logic level at the D input is transferred to Q on NGT of CLK",
+        "c": "The Q output is ALWAYS identical to the D input when CLK = PGT",
+        "d": "The Q output is ALWAYS identical to the D input"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The dynamic problem hazards can occur both in combinational and sequential circuits",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Race around condition in a level triggred JK flip-flop can be avoided by",
+      "answers": {
+        "a": "Master slave JK flip-flop",
+        "b": "Edge triggred JK flip-flop",
+        "c": "Both are capable to avoid race around condition",
+        "d": "None of these"
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
