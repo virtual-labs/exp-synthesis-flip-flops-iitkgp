@@ -2,27 +2,45 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "If a not gate is placed between the two inputs of an SR flip-flop, the resulting circuit behaves as",
+      "question": "In a master slave flip-flop, at clock=1, first the master changes its state then in the next clock=0, slave changes its state giving the final output",
       "answers": {
-        "a": "D flip-flop",
-        "b": "JK flip-flop",
-        "c": "SR flip-flop",
-        "d": "T flip-flop"
+        "a": "True",
+        "b": "False"
       },
       
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "Which statement BEST describes the operation of a negative-edge-triggered D flip-flop?",
+      "question": "In a JK flip-flop, if J and K inputs are made same then it turns to be",
       "answers": {
-        "a": "The Q output is ALWAYS identical to the CLK input if the D input is HIGH",
-        "b": "The logic level at the D input is transferred to Q on NGT of CLK",
-        "c": "The Q output is ALWAYS identical to the D input when CLK = PGT",
-        "d": "The Q output is ALWAYS identical to the D input"
+        "a": "Master slave flip-flop",
+        "b": "SR flip-flop",
+        "c": "D flip-flop",
+        "d": "Mod-2 counter"
       },
       
-      "correctAnswer": "b",
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Inconsistent initialization of a master slave JK flip-flop leads to the flip-flop behaving improperly initially",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Inconsistent initialization of a master slave JK flip-flop can be avoided by adding asynchronous preset and clear",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
