@@ -1,3 +1,13 @@
+# Circuit Diagram of 3-input AND Gate:
+<center>
+<img src="./simulation/images/3 inp AND gate (1).png">
+</center>
+
+# Circuit Diagram of 3-input NAND Gate:
+<center>
+<img src="./simulation/images/3 inpt NAND gate.png">
+</center>
+
 # Circuit Diagram of JK Flip Flop:
 <center>
 <img src="./simulation/images/JK flip flop (NAND).png">
