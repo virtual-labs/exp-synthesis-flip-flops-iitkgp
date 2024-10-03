@@ -11,5 +11,6 @@
 | 2 | Devleena Ghosh | Junior Project Assistant | Indian Institute of Technology, Kharagpur
 | 3 | Saptarshi Mondal | Junior Project Scientist | Indian Institute of Technology, Kharagpur
 | 4 | Aditya Kameswara Rao Nandula | Senior Research Fellow | Indian Institute of Technology, Kharagpur
-| 5 | Sanhati Mallik | Project Assistant | Indian Institute of Technology, Kharagpur
+| 5 | Prakriti Dhang | Project Scientist | Indian Institute of Technology, Kharagpur
+| 6 | Sanhati Mallik | Project Assistant | Indian Institute of Technology, Kharagpur
  
