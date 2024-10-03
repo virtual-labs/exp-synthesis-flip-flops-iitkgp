@@ -1,4 +1,4 @@
-## Theory
+### Theory
 
 ### Synthesis of Flip Flops
 
